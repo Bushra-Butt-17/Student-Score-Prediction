@@ -2,6 +2,7 @@
 
 ## 📌 Overview
 This repository contains a comprehensive analysis and prediction model for forecasting students' final scores based on individual activity scores using a **Linear Regression Model**. The dataset includes student performance in various activities, such as quizzes, assignments, and midterms. The model progressively improves by incorporating more features, demonstrating the impact of additional data on predictive accuracy.
+![image](https://github.com/user-attachments/assets/a0ce2659-d468-449a-a315-103a87e0e5e7)
 
 ---
 
@@ -54,10 +55,19 @@ The model was assessed using:
 
 ## 📊 Visualizations
 📌 **Correlation Heatmap** - Shows relationships between different activities.  
+![image](https://github.com/user-attachments/assets/3ca3a51c-6fa6-4b4f-98ca-16be8efaf96a)
+
 📌 **Pairplot** - Displays score distributions across activities.  
+![image](https://github.com/user-attachments/assets/6d5e02a0-2eff-4311-a1bc-83e566142b90)
+
 📌 **Boxplot** - Analyzes activity-wise score spread.  
+![image](https://github.com/user-attachments/assets/c790f297-c6d5-45ac-b7b0-8f59dd3e9001)
+
 📌 **Bar Chart** - Compares average activity scores with the final score.  
+![image](https://github.com/user-attachments/assets/d4ea8ee0-dfca-4461-af96-7913f0d0c0b4)
+
 📌 **Line Chart** - Tracks students' score progression.  
+![image](https://github.com/user-attachments/assets/5ef151c9-6a01-4716-98b9-9bf52f106368)
 
 ---
 
