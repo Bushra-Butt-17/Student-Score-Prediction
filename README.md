@@ -79,7 +79,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ### ▶️ Run the Model
 ```bash
-python model_training.py
+jupyter notebook ICT-Model.ipynb
+
 ```
 
 ### 📌 Example Usage
