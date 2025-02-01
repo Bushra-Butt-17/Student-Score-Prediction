@@ -120,5 +120,6 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 📧 Contact
-For queries, reach out at: [your email/LinkedIn/GitHub profile]
+For queries, reach out at: bsdsf21m020@pucit.edu.pk
+
 
